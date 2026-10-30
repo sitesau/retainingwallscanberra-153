@@ -1,0 +1,22 @@
+{
+  "wheel_id": 524,
+  "structure": "umbrella",
+  "slug": "retainingwallscanberra-153",
+  "project": "retaining-walls-canberra-beginner-guide-66b15f52f073cfa310873a6",
+  "parent_t1_ref": "retainingwallscanberra-004",
+  "node_role": "buffer",
+  "money_target": "retainingwallscanberra.au",
+  "primary_kw": "retaining walls canberra beginner guide",
+  "intended_url": "https://aumedia.neocities.org/retaining-walls-canberra-beginner-guide-66b15f52f073cfa310873a6/",
+  "tier": "T2",
+  "writeback_nonce": "8bfbff4d24274479",
+  "links": [
+    {
+      "target_url": "https://s3.ap-southeast-2.amazonaws.com/retainingwallscanberra-004/retaining-walls-canberra.html",
+      "anchor": "a guide to retaining walls canberra",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
